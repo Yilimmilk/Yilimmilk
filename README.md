@@ -1,4 +1,4 @@
-#### Hi there 👋, I am [Yilimmilk](https://mapotofu.cn)
+#### Hi there 👋, I am [Yilimmilk](https://www.mapotofu.cn)
 
 >🌱 About my Github ~
 
@@ -6,8 +6,8 @@
 
 **💬 Where can you find me ?**
 
-- [My Pages](https://mapotofu.cn)
-- [My Blog](https://blog.treeoncloud.com)
+- [My Pages](https://www.mapotofu.cn)
+- [My Blog](https://blog.mapotofu.com)
 
 **😄 I am a little vegetable chicken ~ **
 
