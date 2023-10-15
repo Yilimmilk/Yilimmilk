@@ -7,7 +7,7 @@
 **💬 Where can you find me ?**
 
 - [My Pages](https://www.mapotofu.cn)
-- [My Blog](https://blog.mapotofu.com)
+- [My Blog](https://blog.mapotofu.cn)
 
 **😄 I am a little vegetable chicken ~ **
 
